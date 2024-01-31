@@ -397,7 +397,7 @@ Em seguida, vamos alterar o título da página para uma mensagem de boas-vindas 
    let myHeading = document.querySelector("h1");
    ```
 
-3. Adicione a seguinte função para definir a saudação personalizada. Isso não vai fazer nada ainda, mas thisso vai mudar em breve.
+3. Adicione a seguinte função para definir a saudação personalizada. Isso não vai fazer nada ainda, mas isso vai mudar em breve.
 
    ```js
    function setUserName() {
